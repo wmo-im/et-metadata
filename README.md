@@ -11,32 +11,33 @@
 
 |Name | Agency | GitHub handle |
 |---|---|---|
-|Mr Tom KRALIDIS (Lead)|MSC|[@tomkralidis](https://github.com/tomkralidis)
-|Mr Guillaume AUBERT|EUMETSAT|[@gaubert](https://github.com/gaubert)
-|Mr Xinqiang HAN|CMA|[@Amienshxq](https://github.com/Amienshxq)
-|Ms Hanane KAMIL|Météo Maroc|[@hananeKamil](https://github.com/hananeKamil)
-|Mr Ioannis MALLAS|ECMWF|[tbd](https://github.com/tbd)
-|Mr Ian MCDONALD|EUMETSAT|[@McDonald-Ian](https://github.com/McDonald-Ian)
-|Mr Steve OLSON|NOAA|[@solson-nws](https://github.com/solson-nws)
-|Mr Ján OSUSKY|HMEI|[@josusky](https://github.com/josusky)
-|Mr David PODEUR|MF|[@davidpodeur](https://github.com/davidpodeur)
-|Ms Antje SCHREMMER|DWD|[@antje-s](https://github.com/antje-s)
-|Ms Julia SIELAND|DWD|[@jsieland](https://github.com/jsieland)
-
-## WMO Secretariat
-
-|Name |GitHub handle |
-|---|---|
-|Ms Anna MILAN|[@amilan17](https://github.com/orgs/wmo-im/people/amilan17)
-|Mr Enrico FUCILE|[@efucile](https://github.com/orgs/wmo-im/people/efucile)
-|Ms Xiaoxia CHEN|[@chenxiaoxia2019](https://github.com/chenxiaoxia2019)
+|Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)
+|Guillaume AUBERT|EUMETSAT|[@gaubert](https://github.com/gaubert)
+|Lance	BRAASCH|USA|[@TBA](https://github.com/TBA)
+|Gao CHEN|USA|[@gaochen-larc](https://github.com/gaochen-larc)
+|Lara FERREGHI|Norway|[@ferrighi](https://github.com/ferrighi)
+|Masato FUJIMOTO (observing member)|Japan|[@masato-f29](https://github.com/masato-f29)
+|Sylvain GRELLET|France|[@sgrellet](https://github.com/sgrellet)
+|Shuli HAN|China|[@hansl2022](https://github.com/hansl2022)
+|Xinqiang HAN|China|[@Amienshxq](https://github.com/Amienshxq)
+|Anne	KAMAU|Kenya|[@TBA](https://github.com/TBA)
+|Vera KORBULAKOVA|Russian Federation|[@VeraKorbulakova](https://github.com/VeraKorbulakova)
+|Paolo LEONI|Italy|[@TBA](https://github.com/TBA)
+|Ian MCDONALD|EUMETSAT|[@McDonald-Ian](https://github.com/McDonald-Ian)
+|Steve OLSON|USA|[@solson-nws](https://github.com/solson-nws)
+|Ján OSUSKY|HMEI|[@josusky](https://github.com/josusky)
+|David PODEUR|France|[@davidpodeur](https://github.com/davidpodeur)
+|Naicker	SIVASHNI|South Africa|[@TBA](https://github.com/TBA)
+|Julia SIELAND|Germany|[@jsieland](https://github.com/jsieland)
+|Yutaro	TONOOKA|Japan|[@TBA](https://github.com/TBA)
+|Anna MILAN|WMO Secretariat|[@amilan17](https://github.com/orgs/amilan17)
 
 ## Meetings
 https://github.com/wmo-im/et-metadata/wiki/Meetings
 
 ## Discussions
 - ET-Metadata mailing list (`et-metadata at groups.wmo.int`)
-- [ET-Metadata team wide discussions on GitHub](https://github.com/orgs/wmo-im/teams/et-metadata/discussions)
+- [ET-Metadata team wide discussions on GitHub](https://github.com/wmo-im/et-metadata/discussions)
 
 ## Repositories
 * https://github.com/wmo-im/wcmp2
