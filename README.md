@@ -29,7 +29,7 @@
 |David PODEUR|France|[@davidpodeur](https://github.com/davidpodeur)
 |Naicker	SIVASHNI|South Africa|[@TBA](https://github.com/TBA)
 |Julia SIELAND|Germany|[@jsieland](https://github.com/jsieland)
-|Yutaro	TONOOKA|Japan|[@TBA](https://github.com/TBA)
+|Yutaro	TONOOKA|Japan|[YutaroJMA](https://github.com/YutaroJMA)
 |Anna MILAN|WMO Secretariat|[@amilan17](https://github.com/orgs/amilan17)
 
 ## Meetings
