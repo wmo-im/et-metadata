@@ -12,9 +12,9 @@
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)
 |Guillaume AUBERT|EUMETSAT|[@gaubert](https://github.com/gaubert)
-|Lance	BRAASCH|USA|[@lancebraasch](https://github.com/lancebraasch)
+|Lance BRAASCH|USA|[@lancebraasch](https://github.com/lancebraasch)
 |Gao CHEN|USA|[@gaochen-larc](https://github.com/gaochen-larc)
-|Lara FERREGHI|Norway|[@ferrighi](https://github.com/ferrighi)
+|Lara FERRIGHI|Norway|[@ferrighi](https://github.com/ferrighi)
 |Masato FUJIMOTO (observing member)|Japan|[@masato-f29](https://github.com/masato-f29)
 |Sylvain GRELLET|France|[@sgrellet](https://github.com/sgrellet)
 |Shuli HAN|China|[@hansl2022](https://github.com/hansl2022)
