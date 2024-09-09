@@ -19,7 +19,7 @@
 |Sylvain GRELLET|France|[@sgrellet](https://github.com/sgrellet)
 |Shuli HAN|China|[@hansl2022](https://github.com/hansl2022)
 |Xinqiang HAN|China|[@Amienshxq](https://github.com/Amienshxq)
-|Anne	KAMAU|Kenya|[@kamauanne-cpu](https://github.com/kamauanne-cpu)
+|Jon MUNGAI|Kenya|[@TBA](https://github.com/TBA)
 |Jörg	KLAUSEN|Switzerland|[@joergklausen](https://github.com/joergklausen) 
 |Vera KORBULAKOVA|Russian Federation|[@VeraKorbulakova](https://github.com/VeraKorbulakova)
 |Paolo LEONI|Italy|[@TBA](https://github.com/TBA)
