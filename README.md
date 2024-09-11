@@ -22,7 +22,7 @@
 |Jon MUNGAI|Kenya|[@TBA](https://github.com/TBA)
 |Jörg	KLAUSEN|Switzerland|[@joergklausen](https://github.com/joergklausen) 
 |Vera KORBULAKOVA|Russian Federation|[@VeraKorbulakova](https://github.com/VeraKorbulakova)
-|Paolo LEONI|Italy|[@TBA](https://github.com/TBA)
+|Paolo LEONI|Italy|[@PaoloLeoniIT](https://github.com/PaoloLeoniIT)
 |Ian MCDONALD|EUMETSAT|[@McDonald-Ian](https://github.com/McDonald-Ian)
 |Steve OLSON|USA|[@solson-nws](https://github.com/solson-nws)
 |Ján OSUSKY|HMEI|[@josusky](https://github.com/josusky)
