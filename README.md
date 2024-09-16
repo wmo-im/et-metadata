@@ -8,7 +8,7 @@
 
 >all team: [@wmo-im/et-metadata](https://github.com/orgs/wmo-im/teams/et-metadata)
 
-|Name | Member | GitHub handle |
+|Name | Affiliation/Country | GitHub handle |
 |---|---|---|
 |Tom KRALIDIS (Chair)|Canada|[@tomkralidis](https://github.com/tomkralidis)
 |Guillaume AUBERT|EUMETSAT|[@gaubert](https://github.com/gaubert)
