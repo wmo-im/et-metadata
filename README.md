@@ -37,7 +37,6 @@ https://github.com/wmo-im/et-metadata/wiki/Meetings
 
 ## Discussions
 - ET-Metadata mailing list (`et-metadata at groups.wmo.int`)
-- [ET-Metadata team wide discussions on GitHub](https://github.com/wmo-im/et-metadata/discussions)
 
 ## Repositories
 * https://github.com/wmo-im/wcmp2
