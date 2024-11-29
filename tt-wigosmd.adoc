@@ -1,0 +1,20 @@
+== Task Team on WIGOS Metadata
+
+=== Terms of Reference
+
+[loweralpha]
+. Develop and maintain WIGOS metadata code lists for the WMO Manual on Codes
+. Review and evolve the WIGOS metadata model based on ISO, OGC and W3C standards.
+.. Improve on documenting data quality and provenance. 
+.. Work with TT-WISMD to evaluate the feasibility of defining common building blocks across WMO metadata standards.
+.. Address known and emerging issues with the metadata model.
+. Evolve the WIGOS Metadata Representation.
+.. Explore simplified XML and alternative JSON representations. 
+. Evolve and consolidate the documentation of the WIGOS Metadata Standard and contribute to the WIGOS Guide.
+.. Update the existing WIGOS Metadata Standard document (WMO 1092) and include the WIGOS Metadata Specification.
+.. Interact with TT-WIGOS Tools on documenting best practices for WIGOS metadata creation and use with WIGOS tools such as OSCAR.
+. Develop and maintain WIGOS metadata key performance indicators (KPIs) to assess the completeness/quality of WIGOS metadata records.
+. Regularly report to ET-Metadata on status and progress.
+
+
+cf. link: https://github.com/wmo-im/wmds/wiki/TT-WIGOSMD-Terms-of-Reference[current ToRs]
