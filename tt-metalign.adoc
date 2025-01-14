@@ -3,7 +3,8 @@
 === Terms of Reference
 
 [loweralpha]
-. . Perform a comparative analysis of WMO Core Metadata Profile v2, WIS Notification Message, WIGOS Metadata Standard, vocabularies, and use of persistent identifiers in order to provide recommendations and options on future evolution and/or harmonization.
+. Investigate and analyze the relationship of WIS2 and WIGOS metadata standards as well as other WMO metadata standards.  Evaluate the feasibility of defining common building blocks across WMO metadata standards
+. Perform a comparative analysis of WMO Core Metadata Profile v2, WIS Notification Message, WIGOS Metadata Standard, vocabularies, and use of persistent identifiers in order to provide recommendations and options on future evolution and/or harmonization.
 [lowerroman]
 .. Review and compare purpose, scope and logical model of each standard.
 .. Review and analyze the main interaction and workflows of each standard in core systems (e.g.: WIS2, OSCAR).
