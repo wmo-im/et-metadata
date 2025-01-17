@@ -3,7 +3,7 @@
 === Terms of Reference
 
 [loweralpha]
-. In coordination with the Task Team on WIGOS Operational Tools (TT-WOT) with regard to the WIGOS Metadata Standard and its implementation in tools.
+. In coordination with the Task Team on WIGOS Operational Tools (TT-WOT) with regard to the WIGOS Metadata Standard, its implementation in tools and user requirements.
 .. Develop and maintain the WIGOS Metadata standard, its associated codelists and key performance indicators (KPIs).
 .. Review and evolve the WIGOS metadata model based on ISO, OGC and W3C standards.
 ... Address known and emerging issues with the metadata model.
