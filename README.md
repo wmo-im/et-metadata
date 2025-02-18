@@ -1,4 +1,4 @@
-# ![World Meteorological Organization](https://community.wmo.int/themes/wmo/logo.png) WMO Expert Team on Metadata Standards (ET-Metadata)
+# ![World Meteorological Organization](https://community.wmo.int/themes/custom/wmo/logo.png) WMO Expert Team on Metadata Standards (ET-Metadata)
 
 [ET-Metadata](https://community.wmo.int/en/governance/commission-membership/commission-observation-infrastructure-and-information-systems-infcom/standing-committee-information-management-and-technology-sc-imt/expert-team-metadata-standards-et-metadata) develops and maintains WMO standards for metadata (discovery, observations, provenance, WIS2 notifications, WIS2 topic hierarchy, and WIS2 monitoring / alerting) based on the W3C, OGC and ISO/TC 211 series of international standards to meet the needs of Members, WIS, WIGOS, WMO Earth system disciplines/domains and partner organizations.
 
